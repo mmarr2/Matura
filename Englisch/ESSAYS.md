@@ -1,8 +1,8 @@
 # Formal blog post
 
-Username: <username>
+*Username*: username
 
-Date, time
+*Date*: Date, time
 
 Title
 
@@ -12,9 +12,9 @@ Ending (get readers to interact: “Let me know what you think!”, “What shou
 
 # Blog comment
 
-Username: <username>
+*Username*: username
 
-Date, time
+*Date*: Date, time
 
 Refer to original blog post
 
@@ -24,11 +24,11 @@ Ending (e.g ”Hope I could help!”)
 
 # Formal correspondence
 
-To: <recipicient>
+*To*: recipicient
 
-From: <sender>
+*From*: sender
 
-Subject: <subject>
+*Subject*: subject
 
 Greeting
 
@@ -58,17 +58,17 @@ Introduction sentence
 
 Headings for every operator
 
-bullet points can be used
+Bullet points can be used for max. one operator
 
 For further information contact … 
 
 # Report
 
-To
+*To*: recipient
 
-From 
+*From*: sender 
 
-Date
+*Date*: date
 
 Subject (Title)
 
