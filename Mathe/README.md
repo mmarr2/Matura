@@ -11,7 +11,7 @@
 
 [Differentialgleichungen](SEM07/S07B.pdf)
 
-[Zahlentheorie, Matrizen, Vektoren](SEM08/SO8C.pdf)
+[Zahlentheorie, Matrizen, Vektoren](SEM08/S08C.pdf)
 
 [Folgen und Reihen, Finanzmathematik](SEM08/S08D.pdf)
 
