@@ -1,4 +1,4 @@
-## Der Verlust der deutschen Sprache
+# Der Verlust der deutschen Sprache
 
 Die deutsche Sprache geht immer mehr verloren und wird durch Englisch verdrängt, so heißt es im Artikel “Out of Deutsch - immer raus mit der Sprache?” von Christoph Weymann. Ist dem wirklich so, oder brauchen alte Leute wieder etwas, worüber sie sich aufregen können?
 
