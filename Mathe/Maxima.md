@@ -18,7 +18,21 @@
 
 ```limit(function, var, a)``` -> Grenzwert 
 
+```log(x) / log(10)``` -> Logarithmus zur Basis 10
 
+## Trigonometrie
+
+```sin(x)``` -> Sinus
+
+```asin(x)``` -> Arkussinus
+
+```acos(x)``` -> Arkosinus
+
+```tan(x)``` -> Tangens
+
+```atan(x)``` -> Arkustangens
+
+```atan(prozent/100)``` -> Winkel aus Prozentsteigung rechnen
 
 ## Integral- und Differentialrechnung
 
