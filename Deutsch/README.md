@@ -1,5 +1,7 @@
 # Deutsch
 
+[Beispiele](Beispiele)
+
 ## Textsorten
 
 [Erörterung](Eroerterung.md)
@@ -19,3 +21,5 @@
 ## Anderes
 
 [Rhetorische Stilmittel](RhetorischeStilmittel.md)
+
+[Fachbegriffe](Fachbegriffe.md)
