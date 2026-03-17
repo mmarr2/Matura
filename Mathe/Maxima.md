@@ -129,4 +129,4 @@ Koeffizienten der Funktion, die herausgefunden werden sollen. Davor ```load(lsqu
 
 ```quantile_normal(quantil, erwartungswert, std)``` -> Quantil
 
-```quantile_student(quantil, n)``` -> Quantil 
+```quantile_student_t(quantil, n)``` -> Quantil 
