@@ -18,6 +18,8 @@
 
 ```limit(function, var, a)``` -> Grenzwert 
 
+```log(x)``` -> Logarithmus zur Basis e
+
 ```log(x) / log(10)``` -> Logarithmus zur Basis 10
 
 ## Trigonometrie
