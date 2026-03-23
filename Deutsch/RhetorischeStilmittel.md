@@ -24,6 +24,8 @@
 
 **Neologismus:** Wortneuschöpfung
 
+**Oxymoron:** Zusammenstellung zwei sich widersprechender Begriffe
+
 **Paradoxon:** scheinbar unsinnige Behauptung
 
 **Parenthese:** Einschub, vom Rest des Satzes durch Gedankenstriche getrennt
